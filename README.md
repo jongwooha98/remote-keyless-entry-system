@@ -1,6 +1,7 @@
 # Remote Keyless Entry System
 
 The project was to realize a [finite state machine](https://en.wikipedia.org/wiki/Finite-state_machine) for implementing a [remote keyless entry system](https://en.wikipedia.org/wiki/Remote_keyless_system).  
+
 The system was designed with four different methods
 1. Discrete logic with NAND gates, a hex inverter, and a D type flip flop
 2. LabVIEW
@@ -77,7 +78,7 @@ Each case has its output for both LEDs and LCD display.
 A 2 seconds clock cycle is implemented using ‘delay’.
 
 
-### Final Implementations
+## Final Implementations
 
 ![image](https://user-images.githubusercontent.com/18746327/126803138-d040973e-0ebf-4b88-b3ad-ea376c475713.png)
 
